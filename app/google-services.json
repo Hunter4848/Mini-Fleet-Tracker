@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605641248675",
+    "project_id": "minifleet-6e6e7",
+    "storage_bucket": "minifleet-6e6e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605641248675:android:3cf8d4d0f4ecc6cf445416",
+        "android_client_info": {
+          "package_name": "com.adit.minifleet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABuy_S2zXGWJZcYRQNUDygJ0V6m8At4zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

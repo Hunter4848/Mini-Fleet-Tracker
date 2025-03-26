@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#2cabe2</color>
+    <color name="colorPrimaryDark">#2cabe2</color>
+    <color name="colorAccent">#2cabe2</color>
+    <color name="colorBackground">#FFF</color>
+    <color name="color_selected">#FF6200EE</color>
+    <color name="color_unselected">#808080</color>
+    <color name="colorAccentAbu">#bababa</color>
+    <color name="colorButtonLogin">#154575</color>
+    <color name="bg_login">#00ffff</color>
+    <color name="form_input_login">#00ffff</color>
+    <color name="background_page">#dddddd</color>
+    <color name="ColorWhite">#FFF</color>
+    <color name="view">#87dcdcdc</color>
+    <color name="colorBlack">#000</color>
+    <color name="btn_cancel">#EEBCBDC3</color>
+    <color name="btn_save">#154575</color>
+    <color name="btn_save_close">#367fa9</color>
+    <color name="btn_posting">#e08e0b</color>
+    <color name="btn_delete">#d73925</color>
+    <color name="disabled_color">#000000</color>
+    <color name="colorLogin">#b4c2d1</color>
+    <color name="blue_transparent">#6FE8EAF6</color>
+    <color name="red">#FC4C00</color>
+    <color name="blackAlpha25">#40000000</color>
+    <color name="biru_terang">#2cabe2</color>
+    <color name="biru_gelap">#1e82c5</color>
+</resources>
